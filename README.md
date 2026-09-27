@@ -241,3 +241,8 @@ Audio Converter Pro was built with a simple goal:
 > **Make audio conversion easier without requiring users to understand complex technical settings.**
 
 Choose your files, choose your format, and let the application handle the rest.
+
+---
+## ❤️Credit
+"This project uses libraries from the FFmpeg project, licensed under the LGPLv2.1. The source code for FFmpeg can be downloaded here."
+https://ffmpeg.org/download.html
