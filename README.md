@@ -9,6 +9,12 @@ You don't need to know complicated FFmpeg commands. Just:
 **Add files → Choose a format → Choose quality → Convert**
 
 ---
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/eb0af8c4-7729-4b2f-ba61-e34d9e6e94d3" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d630b228-2fee-460f-a489-13ae3f92abeb" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/dd098a57-44f4-4cc7-9243-ab9249a4c69c" />
+
+
+---
 
 ## 🎵 What Can You Do with Audio Converter Pro?
 
@@ -25,8 +31,6 @@ For example, you can:
 * Convert entire folders instead of selecting files one by one.
 
 ---
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/eb0af8c4-7729-4b2f-ba61-e34d9e6e94d3" />
-
 
 ## ✨ Key Features
 
