@@ -25,6 +25,8 @@ For example, you can:
 * Convert entire folders instead of selecting files one by one.
 
 ---
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/eb0af8c4-7729-4b2f-ba61-e34d9e6e94d3" />
+
 
 ## ✨ Key Features
 
